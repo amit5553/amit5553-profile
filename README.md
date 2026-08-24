@@ -8,7 +8,7 @@ Hi there 👋, I'm Amit Katkar
 🔐 Interested in Automation & SQL<br>
 🚀 ISRO participation certificate<br>
 
-🚀 ETL Automation Tester
+🚀 ETL Automation Tester Skills
 
 💻 Skills:
 - SQL
