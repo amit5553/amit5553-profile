@@ -7,6 +7,7 @@ Hi there 👋, I'm Amit Katkar
 🛠️ Tech Stack: SQL, Python, Pandas, PySpark, Azure<br>
 🔐 Interested in Automation & SQL<br>
 🚀 ISRO participation certificate<br>
+🛠️ Informatica, SSIS, Jira, Pycharm< Databricks<br>
 
 🚀 ETL Automation Tester Skills
 
