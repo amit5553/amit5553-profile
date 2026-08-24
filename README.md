@@ -1,12 +1,12 @@
 # 💫 About Me:
 Hi there 👋, I'm Amit Katkar
 
-🚀 Working as ETL Test Engineer
-🤖 Passionate about SQL, DWH, Automation
-💻 Currently learning: Artificial Intelligence - Machine Learning from IIT Patna
-🛠️ Tech Stack: SQL, Python, Pandas, PySpark, Azure
-🔐 Interested in Automation & SQL
-🚀 ISRO participation certificate 
+🚀 Working as ETL Test Engineer<br>
+🤖 Passionate about SQL, DWH, Automation<br>
+💻 Currently learning: Artificial Intelligence - Machine Learning from IIT Patna<br>
+🛠️ Tech Stack: SQL, Python, Pandas, PySpark, Azure<br>
+🔐 Interested in Automation & SQL<br>
+🚀 ISRO participation certificate<br>
 
 🚀 ETL Automation Tester
 
